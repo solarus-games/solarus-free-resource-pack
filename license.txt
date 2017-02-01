@@ -1,0 +1,28 @@
+﻿We give in this file the license information of all data files of this
+resource pack.
+
+- Lua scripts are licensed under the terms of the GNU General Public License
+in version 3.
+
+- All data files we created (other than Lua scripts) are licensed under
+Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+http://creativecommons.org/licenses/by-sa/4.0/
+
+Main contributors:
+- Christopho
+- Diarandor <diarandor at gmail dot com>:
+  - Source URL for images: http://diarandor.deviantart.com/
+  - Source URL for sounds and music: https://soundcloud.com/diarandor/
+- Eduardo Dueñas <duenase@hotmail.com>
+- Neovyse
+- Bertram
+
+Scripts under GNU GPL v3:                           Author/Origin
+-------------------------                           ------------------------
+**.lua                                              Christopho
+
+Data files under CC BY-SA 4.0:                      Author/Origin
+------------------------------                      ------------------------
+sprites/menus/game_over.dat                         Christopho
+sprites/menus/game_over.png                         Christopho
+

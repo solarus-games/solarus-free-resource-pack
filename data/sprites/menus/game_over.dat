@@ -1,0 +1,16 @@
+animation{
+  name = "static",
+  src_image = "menus/game_over.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 122, frame_height = 25, origin_x = 0, origin_y = 0 },
+  },
+}
+animation{
+  name = "blood",
+  src_image = "menus/game_over.png",
+  frame_delay = 100,
+  frame_to_loop_on = 10,
+  directions = {
+    { x = 0, y = 0, frame_width = 122, frame_height = 25, origin_x = 0, origin_y = 0, num_frames = 11, num_columns = 1 },
+  },
+}
