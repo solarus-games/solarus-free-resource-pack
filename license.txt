@@ -23,6 +23,6 @@ Scripts under GNU GPL v3:                           Author/Origin
 
 Data files under CC BY-SA 4.0:                      Author/Origin
 ------------------------------                      ------------------------
-sprites/menus/game_over.dat                         Christopho
-sprites/menus/game_over.png                         Christopho
+sprites/neovyse/menus/game_over.dat                 Neovyse
+sprites/neovyse/menus/game_over.png                 Neovyse
 
