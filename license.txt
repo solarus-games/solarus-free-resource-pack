@@ -26,6 +26,10 @@ Scripts under GNU GPL v3:                           Author/Origin
 
 Data files under CC BY-SA 4.0:                      Author/Origin
 ------------------------------                      ------------------------
+musics/diarandor/*.ogg                              Diarandor
+musics/eduardo/*.ogg                                Eduardo Dueñas
+musics/zonzifleur/*.ogg                             Zonzifleur
+
 sprites/neovyse/menus/game_over.dat                 Neovyse
 sprites/neovyse/menus/game_over.png                 Neovyse
 
