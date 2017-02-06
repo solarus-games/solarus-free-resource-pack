@@ -7,9 +7,11 @@ creations made by us, the Solarus team.
 - Lua scripts are licensed under the terms of the GNU General Public License
 in version 3.
 
-- All data files other than Lua scripts are licensed under
+- Most data files other than Lua scripts are licensed under
 Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
 http://creativecommons.org/licenses/by-sa/4.0/
+
+- A few data files are in public domain.
 
 Main contributors:
 - Christopho
@@ -20,16 +22,22 @@ Main contributors:
 - Neovyse
 - Bertram
 
-Scripts under GNU GPL v3:                           Author/Origin
+Scripts under GNU GPL v3:                           Author
 -------------------------                           ------------------------
 **.lua                                              Christopho
 
-Data files under CC BY-SA 4.0:                      Author/Origin
+Data files under CC BY-SA 4.0:                      Author
 ------------------------------                      ------------------------
+fonts/minecraftia.ttf                               Andrew Tyler: http://www.andrewtyler.net
+
 musics/diarandor/*.ogg                              Diarandor
 musics/eduardo/*.ogg                                Eduardo Dueñas
 musics/zonzifleur/*.ogg                             Zonzifleur
 
-sprites/neovyse/menus/game_over.dat                 Neovyse
-sprites/neovyse/menus/game_over.png                 Neovyse
+sprites/neovyse/menus/game_over.dat                 Olivier Cléro
+sprites/neovyse/menus/game_over.png                 Olivier Cléro
+
+Data files under public domain:
+-------------------------------
+fonts/8_bit.png                                     Christopho, adapted from: http://opengameart.org/content/a-package-of-8-bit-fonts-for-grafx2-and-linux
 

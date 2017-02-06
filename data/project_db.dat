@@ -1,3 +1,5 @@
+
+
 sprite{ id = "neovyse/menus/game_over_blood", description = "Game-over (bleeding)" }
 
 music{ id = "diarandor/boss", description = "Boss" }
@@ -23,4 +25,12 @@ music{ id = "eduardo/title_screen", description = "Title screen" }
 music{ id = "eduardo/village", description = "Village" }
 music{ id = "eduardo/witch_hut", description = "Witch" }
 music{ id = "zonzifleur/carrousel", description = "Carrousel" }
+
+
+
+
+
+
+font{ id = "8_bit", description = "8 bit" }
+font{ id = "minecraftia", description = "Minecraftia" }
 
