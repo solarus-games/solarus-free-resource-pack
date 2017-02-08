@@ -39,9 +39,10 @@ will make the process easier):
 - Make a backup of your quest.
 - Copy the sprites/tilesets/musics/scripts files you want from the
   `data` directory of this resource to the `data` directory of your
-  quest. Don't copy `project_db.dat`.
+  quest. Don't copy `project_db.dat` or `quest.dat`.
   (`project_db.dat` is the list of resources of your quest and you don't want
-  to lose the existing ones.)
+  to lose the existing ones. `quest.dat` are the properties of your quest like
+  the title and the savegames directory.)
 - Open your quest with
   [Solarus Quest Editor](http://www.solarus-games.org/development/quest-editor]).
 - In the quest tree, all resources you just copied now appear with an
