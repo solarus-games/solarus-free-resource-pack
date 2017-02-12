@@ -1,4 +1,4 @@
-We give in this file the license information of
+﻿We give in this file the license information of
 the Solarus Free Resource Pack.
 
 Some resources come from communities like OpenGameArt, and others are original
@@ -128,6 +128,11 @@ sounds/sword3.ogg                                   Diarandor
 sounds/sword4.ogg                                   Diarandor
 sounds/teleporter.ogg                               Diarandor
 sounds/throw.ogg                                    Diarandor
+sounds/thunder1.ogg                                 Diarandor
+sounds/thunder2.ogg                                 Diarandor
+sounds/thunder3.ogg                                 Diarandor
+sounds/thunder_double.ogg                           Diarandor
+sounds/thunder_far.ogg                              Diarandor
 sounds/timer.ogg                                    Diarandor
 sounds/timer_hurry.ogg                              Diarandor
 sounds/timer2.ogg                                   Diarandor
