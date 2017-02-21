@@ -4,9 +4,9 @@
 -- but this is not mandatory.
 
 -- Example of use:
--- local logo = require("menus/solarus_logo")
--- sol.menu.start(logo)
--- logo.on_finished = function()
+-- local solarus_logo = require("menus/solarus_logo")
+-- sol.menu.start(solarus_logo)
+-- function solarus_logo:on_finished()
 --   -- Do whatever you want next (show a title screen, start a game...)
 -- end
 local solarus_logo_menu = {}
@@ -79,6 +79,8 @@ function solarus_logo_menu:on_started()
   sun:set_direction(0)
   sun:set_xy(0, 0)
   sword:set_xy(0, 0)
+  -- Play a sound.
+  sol.audio.play_sound("diarandor/solarus_logo")
   -- Start the animation.
   solarus_logo_menu:start_animation()
   -- Update the surface.
