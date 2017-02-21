@@ -30,6 +30,7 @@ sound{ id = "arrow_hit", description = "arrow_hit" }
 sound{ id = "bird_chirp", description = "bird_chirp" }
 sound{ id = "bird_chirp1", description = "bird_chirp1" }
 sound{ id = "bird_chirp2", description = "bird_chirp2" }
+sound{ id = "bird_cute", description = "bird_cute" }
 sound{ id = "bomb", description = "bomb" }
 sound{ id = "boomerang", description = "boomerang" }
 sound{ id = "boss_charge", description = "boss_charge" }
@@ -136,7 +137,6 @@ sound{ id = "world_warp", description = "world_warp" }
 sound{ id = "wrong", description = "wrong" }
 sound{ id = "wrong2", description = "wrong2" }
 sound{ id = "wrong3", description = "wrong3" }
-
 
 
 

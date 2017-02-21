@@ -36,6 +36,7 @@ musics/zonzifleur/*.ogg                             Zonzifleur
 
 sounds/eduardo/secret.ogg                           Eduardo Dueñas
 sounds/arrow_hit.ogg                                Diarandor
+sounds/bird_cute.ogg                                Diarandor
 sounds/bird_chirp.ogg                               Diarandor
 sounds/bird_chirp1.ogg                              Diarandor
 sounds/bird_chirp2.ogg                              Diarandor
