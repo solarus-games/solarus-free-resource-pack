@@ -79,8 +79,6 @@ function solarus_logo_menu:on_started()
   sun:set_direction(0)
   sun:set_xy(0, 0)
   sword:set_xy(0, 0)
-  -- Play a sound.
-  sol.audio.play_sound("diarandor/solarus_logo")
   -- Start the animation.
   solarus_logo_menu:start_animation()
   -- Update the surface.
@@ -98,6 +96,8 @@ function solarus_logo_menu:step1()
   sun:set_xy(0, -33)
   sword:stop_movement()
   sword:set_xy(-48, 48)
+  -- Play a sound.
+  sol.audio.play_sound("diarandor/solarus_logo")
   -- Update the surface.
   rebuild_surface()
 end
