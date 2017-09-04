@@ -152,6 +152,7 @@ sounds/wrong.ogg                                    Diarandor
 sounds/wrong2.ogg                                   Diarandor
 sounds/wrong3.ogg                                   Diarandor
 
+sprites/menus/solarus_logo.png                      Olivier Cléro
 sprites/neovyse/menus/game_over.dat                 Olivier Cléro
 sprites/neovyse/menus/game_over.png                 Olivier Cléro
 

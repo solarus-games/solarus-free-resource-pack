@@ -1,13 +1,13 @@
 animation{
   name = "static",
-  src_image = "neovyse/menus/game_over.png",
+  src_image = "neovyse/menus/game_over_blood.png",
   directions = {
     { x = 0, y = 0, frame_width = 122, frame_height = 25, origin_x = 0, origin_y = 0 },
   },
 }
 animation{
   name = "blood",
-  src_image = "neovyse/menus/game_over.png",
+  src_image = "neovyse/menus/game_over_blood.png",
   frame_delay = 100,
   frame_to_loop_on = 10,
   directions = {
